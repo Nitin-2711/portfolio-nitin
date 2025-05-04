@@ -82,7 +82,7 @@ export const Socials = [
   {
     name: "Github",
     src: "/github.png",
-    url: "https://github.com/nitinkumar2711",
+    url: "https://github.com/Nitin-2711",
   },
 ];
 
